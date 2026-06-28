@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dunkle-nacht-helle-sterne/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Dunkle Nacht helle Sterne](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dunkle-nacht-helle-sterne/) |
+| **Get License** | [Commercial Licensing for Dunkle Nacht helle Sterne](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dunkle-nacht-helle-sterne/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dunkle Nacht, helle Sterne, Babe, die City ist wach
+> Dein Blick trifft wie ein Blitz, der meine Sinne entfacht
+> Wir roll'n tief durch die Streets in mei'm schwarzen Coupé
+> Mach dir gar keine Sorgen, mit mir ist alles okay
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
